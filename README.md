@@ -40,7 +40,7 @@ pip install kvdeveloper
 ## Requirements
 - **Python**>=3.1
 
-- kivy>=2.2.0 `(recommended ivy==2.3.0)`
+- kivy>=2.2.0 `(recommended kivy==2.3.0)`
 
 - kivymd>=1.1.1 `(recommended kivymd==1.1.1)`
 
